@@ -1,1 +1,1 @@
-# fairy-game
+# fairy-star
